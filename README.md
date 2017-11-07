@@ -1,5 +1,5 @@
 # python_training_projects
-little training code
+CaculateROI
 
 Well,I'm from China.So nothing to say about my english.
 It's written by tkinter(python3.5).I wrote this for studying.
